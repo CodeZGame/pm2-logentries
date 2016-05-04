@@ -1,0 +1,27 @@
+{
+  "name": "pm2-logentries",
+  "version": "1.0.0",
+  "description": "PM2 module that redirect log to logentries cloud platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pm2": "^0.12.10",
+    "pmx": "^0.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeZGame/pm2-logentries.git"
+  },
+  "keywords": [
+    "pm2",
+    "logentries"
+  ],
+  "author": "dr-z <b.francoual@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeZGame/pm2-logentries/issues"
+  },
+  "homepage": "https://github.com/CodeZGame/pm2-logentries"
+}
