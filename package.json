@@ -1,6 +1,6 @@
 {
   "name": "pm2-logentries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PM2 module that redirect log to logentries cloud platform",
   "main": "app.js",
   "scripts": {
